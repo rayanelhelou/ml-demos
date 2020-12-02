@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+statsmodels
+control
+tqdm
+gym
+Box2D
+stable-baselines3
