@@ -163,6 +163,6 @@ Hopefully, you have been able to install everything as described above. Here's o
 
     2. If you're using Nvidia, go to Nvidia Control Panel > Help menu > System Information > Components Tab.
 
-       In may case, it shows "NVIDIA CUDA 11.1.70 driver" next to "NVCUDA64.DLL". This indicates that I should select 11.x
+       In my case, it showed "NVIDIA CUDA 11.1.70 driver" next to "NVCUDA64.DLL". This indicates that I should select 11.x
 
        on PyTorch's website.
